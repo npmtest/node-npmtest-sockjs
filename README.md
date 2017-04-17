@@ -1,7 +1,7 @@
 # test coverage for  [sockjs (v0.3.18)](https://github.com/sockjs/sockjs-node)  [![npm package](https://img.shields.io/npm/v/npmtest-sockjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sockjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sockjs.svg)](https://travis-ci.org/npmtest/node-npmtest-sockjs)
 #### SockJS-node is a server counterpart of SockJS-client a JavaScript library that provides a WebSocket-like object in the browser. SockJS gives you a coherent, cross-browser, Javascript API which creates a low latency, full duplex, cross-domain communication
 
-[![NPM](https://nodei.co/npm/sockjs.png?downloads=true)](https://www.npmjs.com/package/sockjs)
+[![NPM](https://nodei.co/npm/sockjs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sockjs)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-sockjs/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-sockjs/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-sockjs/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-sockjs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-sockjs/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-sockjs/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-sockjs/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-sockjs/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-sockjs/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-sockjs/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-sockjs%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-sockjs/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-sockjs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-sockjs/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-sockjs/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-sockjs%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-sockjs/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-sockjs/build/test-report.html](https://npmtest.github.io/node-npmtest-sockjs/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-sockjs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-sockjs/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-sockjs/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-sockjs/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-sockjs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-sockjs/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-sockjs/build/screenCapture.npmPackageListing.svg)
 
@@ -34,12 +40,10 @@
     },
     "contributors": [
         {
-            "name": "Bryce Kahle",
-            "email": "bkahle@gmail.com"
+            "name": "Bryce Kahle"
         },
         {
-            "name": "Marek Majkowski",
-            "email": "deadbeef@popcount.org"
+            "name": "Marek Majkowski"
         }
     ],
     "dependencies": {
@@ -65,29 +69,23 @@
     "main": "index",
     "maintainers": [
         {
-            "name": "majek",
-            "email": "majek04@gmail.com"
+            "name": "majek"
         },
         {
-            "name": "msackman",
-            "email": "matthew@rabbitmq.com"
+            "name": "msackman"
         },
         {
-            "name": "squaremo",
-            "email": "mikeb@squaremobius.net"
+            "name": "squaremo"
         },
         {
-            "name": "glasser",
-            "email": "glasser@meteor.com"
+            "name": "glasser"
         },
         {
-            "name": "brycekahle",
-            "email": "bkahle@gmail.com"
+            "name": "brycekahle"
         }
     ],
     "name": "sockjs",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/sockjs/sockjs-node.git"
