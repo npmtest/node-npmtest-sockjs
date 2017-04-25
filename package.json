@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [sockjs (v0.3.18)](https://github.com/sockjs/sockjs-node) [![npm package](https://img.shields.io/npm/v/npmtest-sockjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sockjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sockjs.svg)](https://travis-ci.org/npmtest/node-npmtest-sockjs)",
+    "description": "#### basic test coverage for  [sockjs (v0.3.18)](https://github.com/sockjs/sockjs-node)  [![npm package](https://img.shields.io/npm/v/npmtest-sockjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sockjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sockjs.svg)](https://travis-ci.org/npmtest/node-npmtest-sockjs)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "sockjs": "*",
